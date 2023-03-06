@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://admin:vm@cluster0.bgsadf5.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://admin:vm@cluster0.bgsadf5.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mytoken"
 }
